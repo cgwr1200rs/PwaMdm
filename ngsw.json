@@ -9,7 +9,7 @@
       "urls": [
         "/PwaMdm/favicon.ico",
         "/PwaMdm/index.html",
-        "/PwaMdm/main.c20ccefe333861bd3013.js",
+        "/PwaMdm/main.36ab17b02f980f559715.js",
         "/PwaMdm/polyfills.cf535d2993b5def59ab4.js",
         "/PwaMdm/runtime.6afe30102d8fe7337431.js",
         "/PwaMdm/styles.f356a2747fe72080a808.css"
@@ -37,9 +37,9 @@
   "hashTable": {
     "/PwaMdm/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
     "/PwaMdm/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
-    "/PwaMdm/index.html": "e3efb6ec9b29c4b6097f7ac5d3031f459b17ffa6",
+    "/PwaMdm/index.html": "670656d12d2d865b8e1a2267d0d773b81f7653dd",
     "/PwaMdm/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
-    "/PwaMdm/main.c20ccefe333861bd3013.js": "c77bc4d97c4b265a501af72c37112c7737742b91",
+    "/PwaMdm/main.36ab17b02f980f559715.js": "6e0ea2de6cca7908c4b9dc329d0622c19fce2fbd",
     "/PwaMdm/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
     "/PwaMdm/polyfills.cf535d2993b5def59ab4.js": "b7e2a904d991459f495b427233e93871eeb45c6b",
     "/PwaMdm/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
