@@ -9,10 +9,10 @@
       "urls": [
         "/PwaMdm/favicon.ico",
         "/PwaMdm/index.html",
-        "/PwaMdm/main.711f29027909812df687.js",
-        "/PwaMdm/polyfills.cf535d2993b5def59ab4.js",
+        "/PwaMdm/main.7bd98720d113e6233a0e.js",
+        "/PwaMdm/polyfills.855594eee79c1e137f56.js",
         "/PwaMdm/runtime.6afe30102d8fe7337431.js",
-        "/PwaMdm/styles.f356a2747fe72080a808.css"
+        "/PwaMdm/styles.134bd3981a085e50b5bd.css"
       ],
       "patterns": []
     },
@@ -21,6 +21,7 @@
       "installMode": "lazy",
       "updateMode": "prefetch",
       "urls": [
+        "/PwaMdm/assets/icons/apple-touch-icon.png",
         "/PwaMdm/assets/icons/icon-128x128.png",
         "/PwaMdm/assets/icons/icon-144x144.png",
         "/PwaMdm/assets/icons/icon-152x152.png",
@@ -28,27 +29,36 @@
         "/PwaMdm/assets/icons/icon-384x384.png",
         "/PwaMdm/assets/icons/icon-512x512.png",
         "/PwaMdm/assets/icons/icon-72x72.png",
-        "/PwaMdm/assets/icons/icon-96x96.png"
+        "/PwaMdm/assets/icons/icon-96x96.png",
+        "/PwaMdm/assets/icons/mdm-128x128.png",
+        "/PwaMdm/assets/icons/mdm-152x152.png",
+        "/PwaMdm/assets/icons/mdm-256x256.png",
+        "/PwaMdm/assets/icons/mdm-512x512.png"
       ],
       "patterns": []
     }
   ],
   "dataGroups": [],
   "hashTable": {
-    "/PwaMdm/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
+    "/PwaMdm/favicon.ico": "fdd3f4581d2e8eeae948b5770dcf2130272f0e12",
+    "/PwaMdm/assets/icons/apple-touch-icon.png": "04e4d6713c652a0f7fda25f7565c30fa1cf327bb",
+    "/PwaMdm/index.html": "41fb009b813110bcfa3e7f8a751e112aef421cac",
     "/PwaMdm/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
-    "/PwaMdm/index.html": "37ebb70b5ffb99f54fd0dd1b1e1f07c1a57972d7",
+    "/PwaMdm/main.7bd98720d113e6233a0e.js": "cfa872bbd7197df7facefbfa7946526b03749835",
     "/PwaMdm/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
-    "/PwaMdm/main.711f29027909812df687.js": "f530078d51fd6d7441efcd99f9ca3a9614183a86",
+    "/PwaMdm/polyfills.855594eee79c1e137f56.js": "2548ae81006927ef075d70c63477c4ace08dd03a",
     "/PwaMdm/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
-    "/PwaMdm/polyfills.cf535d2993b5def59ab4.js": "b7e2a904d991459f495b427233e93871eeb45c6b",
-    "/PwaMdm/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
     "/PwaMdm/runtime.6afe30102d8fe7337431.js": "078e320cc6fdaf355836c3b1c52b059cdd33fc7e",
+    "/PwaMdm/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
+    "/PwaMdm/styles.134bd3981a085e50b5bd.css": "22b2c995fd7ee21458bcdb8775bcb14f06eae1c7",
     "/PwaMdm/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
-    "/PwaMdm/styles.f356a2747fe72080a808.css": "2c5a1516e2c4cdad6e8e9f2dea589da7597633a2",
     "/PwaMdm/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
     "/PwaMdm/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
-    "/PwaMdm/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41"
+    "/PwaMdm/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
+    "/PwaMdm/assets/icons/mdm-128x128.png": "9e563fe92ffb8f0fc51253e8875b4fb75d209e66",
+    "/PwaMdm/assets/icons/mdm-152x152.png": "2b549a2bdfdf14909236bce43da151dca8973c64",
+    "/PwaMdm/assets/icons/mdm-256x256.png": "cb13d63e799bd360f5810841c64ad30dd3fe3ebb",
+    "/PwaMdm/assets/icons/mdm-512x512.png": "602ff876cb0e6398564b9a53beb6263b96d72170"
   },
   "navigationUrls": [
     {
