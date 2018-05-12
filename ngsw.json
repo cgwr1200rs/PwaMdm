@@ -9,7 +9,7 @@
       "urls": [
         "/PwaMdm/favicon.ico",
         "/PwaMdm/index.html",
-        "/PwaMdm/main.dc0cae98fd9765237f32.js",
+        "/PwaMdm/main.0819053d9ce5e99cb2a4.js",
         "/PwaMdm/polyfills.855594eee79c1e137f56.js",
         "/PwaMdm/runtime.6afe30102d8fe7337431.js",
         "/PwaMdm/styles.134bd3981a085e50b5bd.css"
@@ -42,9 +42,9 @@
   "hashTable": {
     "/PwaMdm/favicon.ico": "fdd3f4581d2e8eeae948b5770dcf2130272f0e12",
     "/PwaMdm/assets/icons/apple-touch-icon.png": "04e4d6713c652a0f7fda25f7565c30fa1cf327bb",
-    "/PwaMdm/index.html": "5026ab7326fb72cd2345d5d47a544cd8b1e10d0b",
+    "/PwaMdm/index.html": "961757a00b62a5351c9e1de1f07626448d50c8af",
     "/PwaMdm/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
-    "/PwaMdm/main.dc0cae98fd9765237f32.js": "8ccd1cd42bffd7e49e54dd57edb2d05bc74bab86",
+    "/PwaMdm/main.0819053d9ce5e99cb2a4.js": "cbf0366a96a544658fa747a4a7c9733d747c9e59",
     "/PwaMdm/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
     "/PwaMdm/polyfills.855594eee79c1e137f56.js": "2548ae81006927ef075d70c63477c4ace08dd03a",
     "/PwaMdm/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
